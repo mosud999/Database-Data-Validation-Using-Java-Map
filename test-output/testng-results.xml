@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="25" started-at="2020-06-06T03:48:38Z" finished-at="2020-06-06T03:48:38Z">
+  <suite name="Default suite" duration-ms="31" started-at="2020-06-06T04:53:40Z" finished-at="2020-06-06T04:53:40Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="25" started-at="2020-06-06T03:48:38Z" finished-at="2020-06-06T03:48:38Z">
-      <class name="mosud.databse.datavalidation.script.DataValidation">
-        <test-method status="PASS" signature="executingDataValidation()[pri:0, instance:mosud.databse.datavalidation.script.DataValidation@9629756]" name="executingDataValidation" duration-ms="9" started-at="2020-06-06T03:48:38Z" finished-at="2020-06-06T03:48:38Z">
+    <test name="Default test" duration-ms="31" started-at="2020-06-06T04:53:40Z" finished-at="2020-06-06T04:53:40Z">
+      <class name="com.database.datavalidation.using.java.map.DataValidationTest">
+        <test-method status="PASS" signature="executeDataValidationTestScript()[pri:0, instance:com.database.datavalidation.using.java.map.DataValidationTest@9629756]" name="executeDataValidationTestScript" duration-ms="12" started-at="2020-06-06T04:53:40Z" finished-at="2020-06-06T04:53:40Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- executingDataValidation -->
-      </class> <!-- mosud.databse.datavalidation.script.DataValidation -->
+        </test-method> <!-- executeDataValidationTestScript -->
+      </class> <!-- com.database.datavalidation.using.java.map.DataValidationTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -1,4 +1,4 @@
-package com.datavalidation.using.java.map;
+package com.database.datavalidation.using.java.map;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 public class DataValidationTest {
 
 	@Test
-	public void executingDataValidationTestScript() {
+	public void dataValidationTestExecution() {
 		
 		// Test Execution will be started based on TestNG @Test annotation;
 		expectedAndActualDataValidation();
