@@ -15,7 +15,7 @@ public class DataValidationTest {
 	@Test
 	public void executingDataValidationTestScript() {
 		
-		// Test Execution will be started based on the below method using TestNG @Test annotation;
+		// Test Execution will be started based on TestNG @Test annotation;
 		expectedAndActualDataValidation();
 	}
 	
